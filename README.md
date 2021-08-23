@@ -1,2 +1,2 @@
 # MOVIE-TRIVIA-SEQUENCE-TAGGING-
-MOVIE-TRIVIA-SEQUENCE-TAGGING 
+This is a project for Natural language processing
